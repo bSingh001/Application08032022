@@ -25,6 +25,7 @@ public class MainClass
 		System.out.println("Lower case: " + lcb.to_Lower());
 		System.out.println("Area: " + l.Area());
 		System.out.println("Perimeter: " + l.Perimeter());
+		System.out.println("Hi, this is Kyla");
 	}
 
 }
